@@ -50,9 +50,9 @@
 
 ### 🚀 Projects & Contributions
 
-- **🎶 Digital Music Service**: Built a real-time music streaming service with global search and customizable themes. [Open App](#)
-- **📝 Blog Platform**: Engineered an in-house content management system (CMS) for blogs. [Open App](#)
-- **📄 ATS-Friendly Resume Builder**: Developed a resume editor engine that tailors custom resumes for job applications. [Open App](#)
+- **🎶 Digital Music Service**: Built a real-time music streaming service with global search and customizable themes. [Open App](https://musical-library.netlify.app/)
+- **📝 Blog Platform**: Engineered an in-house content management system (CMS) for blogs. [Open App](https://blog-app0.netlify.app/)
+- **📄 ATS-Friendly Resume Builder**: Developed a resume editor engine that tailors custom resumes for job applications (private)
 
 ---
 
