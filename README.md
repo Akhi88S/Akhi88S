@@ -13,9 +13,10 @@
   <a href="https://linkedin.com/in/dev-algo">
     <img src="https://img.shields.io/badge/LinkedIn-Akhil%20Kanapala-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://akhil-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-akhil--dev.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://www.akhill.info/">
+  <img src="https://img.shields.io/badge/Portfolio-akhil.info-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
